@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Hello World from Vue on AWS Amplify!</h1>
+    <h1>HELLOHELLO World from Vue on AWS Amplify!</h1>
   </div>
 </template>
 
